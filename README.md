@@ -22,6 +22,9 @@
   <br>
 </div>
 
+<h1>📚 Learning </h1> 
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=백엔드%20개발자%20진민지입니다%F0%9F%A4%97) 
 
